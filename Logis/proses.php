@@ -11,4 +11,5 @@
 	fclose($fp);
 
 	echo "Terima kasih menggunakan jasa pengiriman JCC<br>";
+	echo "<a href=data.php> Lihat Pesanan </a><br>";
 ?>
